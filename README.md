@@ -1,7 +1,7 @@
 ![header](https://capsule-render.vercel.app/api?type=transparent&color=000000&height=150&section=header&text=Welcome_in_yunho_island!&fontColor=8bb9e3&fontSize=40&animation=fadeIn&fontAlignY=55)
 
 
-## Stacks
+## Developer Stacks
 
 Backend
 
@@ -24,19 +24,13 @@ SNS
     </a>
 [![My Skills](https://skills.thijs.gg/icons?i=notion,obsidian)](https://skills.thijs.gg)
 
+---
+<div>
+	
+### Baekjoon Solved Rank 🏆
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=cyunho62100)](https://solved.ac/cyunho62100)
 
-<!--
 
-**yunhoch0i/yunhoch0i** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Github Stats 📊
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=yunhoch0i&show_icons=true&theme=radical)
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
