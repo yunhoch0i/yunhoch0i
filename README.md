@@ -13,7 +13,7 @@ Frontend
 
 IDE
 
-[![My Skills](https://skills.thijs.gg/icons?i=idea,eclipse,visualstudio,vscode)](https://skills.thijs.gg)
+[![My Skills](https://skills.thijs.gg/icons?i=idea,eclipse,xcode,visualstudio,vscode)](https://skills.thijs.gg)
 
 SNS
 
