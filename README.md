@@ -18,11 +18,8 @@ IDE
 SNS
 
     
-[![My Skills](https://skills.thijs.gg/icons?i=github,git)](https://skills.thijs.gg)
-<a href="https://www.instagram.com/u._.no02/">
-        <img src="https://skills.thijs.gg/icons?i=instagram"> 
-    </a>
-[![My Skills](https://skills.thijs.gg/icons?i=notion,obsidian)](https://skills.thijs.gg)
+[![My Skills](https://skills.thijs.gg/icons?i=github,git,instagram,notion,obsidian)](https://skills.thijs.gg)
+
 
 ---
 <div>
