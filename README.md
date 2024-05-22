@@ -17,6 +17,11 @@ IDE
 
 [![My Skills](https://skillicons.dev/icons?i=idea,pycharm,visualstudio,vscode)](https://skillicons.dev)
 
+OS
+
+[![My Skills](https://skillicons.dev/icons?i=window,mac,linux)](https://skillicons.dev)
+
+
 SNS
 
     
