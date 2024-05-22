@@ -5,7 +5,9 @@
 
 Backend
 
-[![My Skills](https://skills.thijs.gg/icons?i=java,py,c,cpp,ruby)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,py,c,cpp,ruby)](https://skillicons.dev)
+
+
 
 Frontend
 
