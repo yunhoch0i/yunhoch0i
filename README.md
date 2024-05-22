@@ -19,7 +19,7 @@ IDE
 
 OS
 
-[![My Skills](https://skillicons.dev/icons?i=window,mac,linux)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=windows,apple,linux)](https://skillicons.dev)
 
 
 SNS
