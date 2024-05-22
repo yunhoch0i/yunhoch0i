@@ -5,7 +5,7 @@
 
 Backend
 
-[![My Skills](https://skillicons.dev/icons?i=java,py,c,cpp)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,py,c,cpp,swift)](https://skillicons.dev)
 
 
 
