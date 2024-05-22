@@ -5,22 +5,22 @@
 
 Backend
 
-[![My Skills](https://skillicons.dev/icons?i=java,py,c,cpp,ruby)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,py,c,cpp)](https://skillicons.dev)
 
 
 
 Frontend
 
-[![My Skills](https://skills.thijs.gg/icons?i=js,html,css)](https://skills.thijs.gg)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css)](https://skillicons.dev)
 
 IDE
 
-[![My Skills](https://skills.thijs.gg/icons?i=idea,pycharm,eclipse,visualstudio,vscode)](https://skills.thijs.gg)
+[![My Skills](https://skillicons.dev/icons?i=idea,pycharm,eclipse,visualstudio,vscode)](https://skillicons.dev)
 
 SNS
 
     
-[![My Skills](https://skills.thijs.gg/icons?i=github,git,instagram,notion,obsidian)](https://skills.thijs.gg)
+[![My Skills](https://skillicons.dev/icons?i=github,git,instagram,notion,obsidian)](https://skillicons.dev)
 
 
 ---
