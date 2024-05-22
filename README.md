@@ -15,7 +15,7 @@ Frontend
 
 IDE
 
-[![My Skills](https://skillicons.dev/icons?i=idea,pycharm,eclipse,visualstudio,vscode)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=idea,pycharm,xcode,visualstudio,vscode)](https://skillicons.dev)
 
 SNS
 
