@@ -39,6 +39,3 @@ SNS
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=yunhoch0i&show_icons=true&theme=radical)
 
 
-### TOP Languages
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yunhoch0i&layout=compact)
-
