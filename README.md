@@ -1,5 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=transparent&color=000000&height=150&section=header&text=Welcome_in_yunho_island!&fontColor=8bb9e3&fontSize=40&animation=fadeIn&fontAlignY=55)
-
+![header](https://capsule-render.vercel.app/api?type=waving&height=400&color=gradient&text=Welcome%20in%20yunho%20island&textBg=false&fontColor=1B0075&section=header&reversal=false)
 
 ## Developer Stacks
 
