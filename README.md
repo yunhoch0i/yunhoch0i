@@ -18,7 +18,7 @@ IDE
 
 OS
 
-[![My Skills](https://skillicons.dev/icons?i=windows,apple,linux)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=windows,apple)](https://skillicons.dev)
 
 
 SNS
