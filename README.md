@@ -2,19 +2,17 @@
 
 ## Developer Stacks💻
 
-Backend
+Classic
 
 [![My Skills](https://skillicons.dev/icons?i=java,py,c,cpp)](https://skillicons.dev)
 
-
-
-Frontend
+Web
 
 [![My Skills](https://skillicons.dev/icons?i=js,html,css)](https://skillicons.dev)
 
 IDE
 
-[![My Skills](https://skillicons.dev/icons?i=idea,clion,pycharm,visualstudio,vscode)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=idea,pycharm,clion,visualstudio,vscode,webstorm)](https://skillicons.dev)
 
 OS
 
