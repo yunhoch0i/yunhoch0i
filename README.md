@@ -12,7 +12,7 @@ Web
 
 IDE
 
-[![My Skills](https://skillicons.dev/icons?i=idea,pycharm,clion,visualstudio,vscode,webstorm)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=idea,pycharm,webstorm,clion,visualstudio,vscode)](https://skillicons.dev)
 
 OS
 
