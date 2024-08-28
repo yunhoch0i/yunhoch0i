@@ -4,7 +4,7 @@
 
 Classic
 
-[![My Skills](https://skillicons.dev/icons?i=java,py,c,cpp)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,py,c,cpp,dart)](https://skillicons.dev)
 
 Web
 
