@@ -12,11 +12,11 @@ Web
 
 IDE
 
-[![My Skills](https://skillicons.dev/icons?i=idea,pycharm,webstorm,clion,visualstudio,vscode)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=idea,pycharm,webstorm,clion,vscode)](https://skillicons.dev)
 
-OS
+Framework
 
-[![My Skills](https://skillicons.dev/icons?i=windows,apple)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=react,flutter,spring)](https://skillicons.dev)
 
 
 SNS
