@@ -32,7 +32,4 @@ SNS
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=cyunho62100)](https://solved.ac/cyunho62100)
 
 
-### Github Stats 📊
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=yunhoch0i&show_icons=true&theme=radical)
-
 
