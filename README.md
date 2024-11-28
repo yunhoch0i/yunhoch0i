@@ -10,10 +10,6 @@ Web
 
 [![My Skills](https://skillicons.dev/icons?i=js,html,css)](https://skillicons.dev)
 
-IDE
-
-[![My Skills](https://skillicons.dev/icons?i=idea,pycharm,webstorm,clion,vscode)](https://skillicons.dev)
-
 Framework
 
 [![My Skills](https://skillicons.dev/icons?i=react,flutter,spring)](https://skillicons.dev)
