@@ -18,6 +18,7 @@
 - ICT 멘토링 스마트해상물류 트랙 2024.07 - 2024.10
 - 동국대학교 [Farm System](https://www.farmsystem.kr/) 보안/웹 부트랙장 2025.03 -
 - 화이트햇 스쿨 3기 2025.03 -
+- Amazon Cloud Club at Dongguk 1st Member 2025.07 -
 
 
 ### Studying
