@@ -16,10 +16,10 @@
 - 동국대학교 AI융합대학 대의원회 컴퓨터공학전공 대의원 2024.03 - 
 - 미래내일 일경험사업 인턴형 (한전 MCS) 2024.07 - 2024.09
 - ICT 멘토링 스마트해상물류 트랙 2024.07 - 2024.10
+- 화이트햇 스쿨 3기 2025.03 - 2025.09
 - 동국대학교 [Farm System](https://www.farmsystem.kr/) 보안/웹 부트랙장 2025.03 -
-- 화이트햇 스쿨 3기 2025.03 -
 - Amazon Cloud Club at Dongguk 1st Member 2025.07 -
 
 
 ### Studying
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white) ![Terraform](https://img.shields.io/badge/Terraform-844FBA?style=for-the-badge&logo=Terraform&logoColor=white) ![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=Ansible&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=Linux&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white) ![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=Go&logoColor=white) ![Terraform](https://img.shields.io/badge/Terraform-844FBA?style=for-the-badge&logo=Terraform&logoColor=white) ![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=Ansible&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=Linux&logoColor=white)
